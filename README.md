@@ -11,7 +11,7 @@ Halo semua aku berasal dari Jawa tengah Tengah Kota Salatiga, sekarang aku terta
 # 🎓 Projects
 
 - [**Website**](https://NT4PS.github.io)
-- [**Instagram**](https://instagram.ctr_adix.id)
+- [**Instagram**](https://instagram.com/ctr_adix)
 
 # 👍 Hobby
 
