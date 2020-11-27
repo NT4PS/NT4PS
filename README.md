@@ -1,6 +1,6 @@
 # Hello there I'am Adix <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=plengeh69&theme=onedark&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NT4PS&theme=onedark&count_private=true&include_all_commits=true)
 
 Halo semua aku berasal dari Jawa tengah Tengah Kota Salatiga
 
