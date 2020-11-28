@@ -10,16 +10,13 @@ Halo semua aku berasal dari Jawa tengah Tengah Kota Salatiga
 
 # 🎓 Projects
 
-- [**Website**](https://NT4PS.github.io)
-- [**Instagram**](https://instagram.com/ctr_adix)
+- [**Website**](https://adix.github.io)
 
-# 👍 Hobby
 
-- **Sanmori**
-- **Coding 💻**
-- **Belajar Bahasa Pemrograman Yang Belum Saya Kuasai.**
-
-- **Terimakasih🙂**
-
+### MY SOCIAL MEDIA
+* [<img alt="NT4PS's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/NT4PS)<br />
+* [<img alt="NT4PS's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/adi.paijo.16503)<br />
+* [<img alt="NT4PS's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6289688040372?text=Asalamualaikum+bang)<br />
+* [<img alt="NTAPS's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/ctr_adix)<br />
 
 ![template_s](https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif)
